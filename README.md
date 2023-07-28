@@ -31,4 +31,4 @@
 ### Немного статистики:
 [![codewars](https://www.codewars.com/users/De.Cher/badges/small)](https://www.codewars.com/users/De.Cher)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEDEIV8&layout=compact)](https://github.com/CHEDEIV8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEDEIV8&layout=compact)](https://github.com/CHEDEIV8)
