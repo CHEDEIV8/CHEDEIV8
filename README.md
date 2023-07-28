@@ -6,9 +6,9 @@
 
 ### Обо мне:
 
-- Работаю над: Более глубоким изучением Python и созданием проектов.
-- Сейчас учу: Исследую различные библиотеки, фреймворки Python, а так же новые инструменты.
-- Готов сотрудничать: C командами которым требуется Python-разработчик.
+- Работаю над: более глубоким изучением Python и созданием проектов.
+- Сейчас исследую: различные библиотеки, фреймворки Python, а также новые инструменты.
+- Готов сотрудничать: с командами которым требуется Python-разработчик.
 
 ---
 
@@ -30,3 +30,5 @@
 
 ### Немного статистики:
 [![codewars](https://www.codewars.com/users/De.Cher/badges/small)](https://www.codewars.com/users/De.Cher)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEDEIV8&layout=compact)](https://github.com/CHEDEIV8/github-readme-stats)
