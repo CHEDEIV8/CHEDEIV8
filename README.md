@@ -1,5 +1,5 @@
-<div>
-    <h2>Здравствуйте. Меня зовут Дени </h2>
+<div id="header" align="center">
+    <h2>Здравствуйте. Меня зовут Дениc </h2>
     <h3>Я Python-разработчик</h3>
 </div>
 
@@ -12,7 +12,7 @@
 
 ---
 
-### Языки и инструменты
+### Языки и инструменты:
 
 <img src="https://simpleicons.org/icons/python.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://simpleicons.org/icons/django.svg" title="django" width="40" height="40"/>&nbsp;
@@ -25,5 +25,7 @@
 <img src="https://simpleicons.org/icons/nginx.svg" title="nginx" width="40" height="40"/>&nbsp;
 <img src="https://simpleicons.org/icons/gunicorn.svg" title="gunicor" width="40" height="40"/>&nbsp;
 
+---
 
 ### Немного статистики:
+[![codewars](https://www.codewars.com/users/De.Cher/badges/small)](https://www.codewars.com/users/De.Cher)
