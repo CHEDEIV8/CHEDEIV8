@@ -16,7 +16,7 @@
 
 <img src="https://simpleicons.org/icons/python.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://simpleicons.org/icons/django.svg" title="django" width="40" height="40"/>&nbsp;
-<img src="https://www.django-rest-framework.org/img/logo.png" title="drf" width="80" height="40"/>&nbsp;
+<img src="https://github.com/CHEDEIV8/CHEDEIV8/assets/121489351/c6d34bad-7197-4ae0-9344-51ee10b2df32" title="drf" width="80" height="40"/>&nbsp;
 <img src="https://simpleicons.org/icons/sqlite.svg" title="sqlite" width="40" height="40"/>&nbsp;
 <img src="https://simpleicons.org/icons/git.svg" title="git" width="40" height="40"/>&nbsp;
 <a href='https://github.com/'><img src="https://simpleicons.org/icons/github.svg" title="github" width="40" height="40"/></a>&nbsp;
