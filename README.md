@@ -1,16 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h2>Здравствуйте. Меня зовут Дени </h2>
+    <h3>Я Python-разработчик</h3>
+</div>
 
-<!--
-**CHEDEIV8/CHEDEIV8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Работаю над: Более глубоким изучением Python и созданием проектов.
+- Сейчас учу: Исследую различные библиотеки, фреймворки Python, а так же новые инструменты.
+- Готов сотрудничать: C командами которым требуется Python-разработчик.
+
+### Языки и инструменты
