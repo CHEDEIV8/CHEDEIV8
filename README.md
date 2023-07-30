@@ -1,6 +1,9 @@
 <div id="header" align="center">
     <h2>Денис Чередниченко</h2>
     <h3>Python-разработчик</h3>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red" width="70" height="30">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue" width="80" height="30">
+
 </div>
 
 
