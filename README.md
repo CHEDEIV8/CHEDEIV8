@@ -1,8 +1,7 @@
 <div id="header" align="center">
     <h2>Денис Чередниченко</h2>
     <h3>Python-разработчик</h3>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red" width="70" height="30">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue" width="80" height="30">
+    <a href="mailto:dmitrybogorad@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-black?logo=gmail&logoColor=red"></a> <a href="https://t.me/skedoodle"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=blue"></a>
 
 </div>
 
