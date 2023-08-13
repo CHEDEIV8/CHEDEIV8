@@ -27,7 +27,7 @@
 <a href='https://nginx.org/ru/'><img src="https://simpleicons.org/icons/nginx.svg" title="Nginx" width="40" height="40"/></a>&nbsp;
 <a href='https://gunicorn.org/'><img src="https://simpleicons.org/icons/gunicorn.svg" title="Gunicor" width="40" height="40"/></a>&nbsp;
 <a href='https://code.visualstudio.com/'><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" width="40" height="40"/></a>&nbsp;
-<a href='https://www.postman.com/'><img src="https://simpleicons.org/icons/postman.svg" title="Visual Studio Code" width="40" height="40"/></a>&nbsp;
+<a href='https://www.postman.com/'><img src="https://simpleicons.org/icons/postman.svg" title="Postman" width="40" height="40"/></a>&nbsp;
 
 ---
 
